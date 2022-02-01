@@ -1,3 +1,5 @@
 # hello-world
-This Repository for understanding of the git hub repository hosting.
-In this Repository will explore the basic steps and how to create the new branch (feature branch),commit the changes ,merge the  feature to Merge the branches. and lot more
+
+I am adding the few lines of the into related to the Changes here.
+My self - Santhosha K S
+One of the Key developer for the future software industry.Currently Many organizations looking for this Developer
